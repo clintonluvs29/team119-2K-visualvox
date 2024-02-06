@@ -22,7 +22,8 @@ Uses are varied and are not limited to:
 ### Essay description
 VisualVox takes an image - be it from a camera or an upload - and turns it into a short story that is limited to 100 words.
 
-**For instance, when we provide an image of a tabby cat, it tells us: 
+For instance, when we provide an image of a tabby cat, it tells us:
+
 ‘general_description‘: ‘An orange tabby cat is lying down, facing the camera with a focused expression against a blue background’.
 ‘cat’: ‘The orange tabby cat is in the center of the frame, lying down and looking directly into the camera with large, round green eyes.’
 ‘environment’: ‘The simple blue background provides a clear, undistracted view focusing on the cat’.
