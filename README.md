@@ -1,4 +1,4 @@
-# team119-2K-visualvox
+# team119-isualvox
 ### Introduction
 Everyday, there a millions of data being transmitted as images. As the saying goes, "an image speaks a thousand words". If there is a way to summarize all our images, and even charts, into sentences and paragraphs, we will obtain unprecedented pools of useful data for machine learning and could even achieve potential breakthroughs.
 
