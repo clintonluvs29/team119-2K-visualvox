@@ -6,6 +6,7 @@ Everyday, there a millions of data being transmitted as images. As the saying go
 This tool allows tranformation of images into text. 
 
 For instance, the image
+
 ![Screenshot 2024-02-04 222752](https://github.com/clintonluvs29/team119-2K-visualvox/assets/115713365/60f21c1c-af20-4f83-b545-f4e9fe3c00fd)
 
 corresponds to
